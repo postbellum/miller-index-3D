@@ -1,4 +1,4 @@
-# Miller 3D
+# Miller 3D - 🇮🇹
 
 Interactive 3D visualizer for crystallographic planes defined by Miller indices `(h k l)` inside a cubic unit cell.
 
