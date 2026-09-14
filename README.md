@@ -1,6 +1,6 @@
 # Miller 3D - 🇮🇹
 
-Interactive 3D visualizer for crystallographic planes defined by Miller indices `(h k l)` inside a cubic unit cell.
+Interactive 3D visualizer for crystallographic planes defined by Miller indices `(h k l)` inside a cubic unit cell. All in italian.
 
 The application renders the exact intersection between a crystallographic plane and the unit cube `[0,1]³`, including planes with zero or negative Miller indices.
 
